@@ -203,6 +203,10 @@ header .container {
 /* .container .logo {
 	font-size: 32px;
 } */
+
+.logo h1 {
+	color: var(--bittersweet);
+}
 .navbar-menu-btn {
 	font-size: 30px;
 	padding: 5px;
